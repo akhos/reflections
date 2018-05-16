@@ -1,0 +1,26 @@
+git log => shows the log of the changes
+git diff commit1 commit2 => shows the difference between commits
+
+Do one commit per logical changes
+
+git log --stat
+
+clone a repo to your directory
+git clone https://github.com/udacity/asteroids.git
+
+git config --global color.ui auto
+
+gt checkout to go to a specific commit
+
+git checkout <commit id>Now that you have your workspace set up, what do you want to try using Git for?
+
+git init creates an empty repository
+
+git add <filename> => adds the file to the staging aread
+
+git reset => removes the added file from staging area
+
+git commit 
+or 
+git commit -m "commit message"
+
