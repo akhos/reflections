@@ -24,3 +24,37 @@ git commit
 or 
 git commit -m "commit message"
 
+git diff without parameters show the diff between working directory version and the file added to the staging area
+
+git diff --staged => shows the diff between staged area and the comitted
+
+git reset --hard 
+
+git branch -> shows the available branches
+
+git branch <branch name> -> creates a new branch with that name
+
+git checkout <branch name> -> then you chcekout the existing branch
+
+	
+git checkout <remote branch name> -> checks out the remote branch that someone else created
+
+git merge master coins => merges master branch with coin branch
+
+git show <commit id> => shows the changes done in a commit compared to its parent
+
+add the remote repository which is created on github
+git remote add origin git@github.com:....
+
+git remote
+
+git remote -v
+
+git push origin master
+
+
+
+3666
+4666
+
+
