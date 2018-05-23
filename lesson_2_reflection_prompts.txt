@@ -18,5 +18,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	you can merge the changes someone else did, or you have done in a seperate branch to deliver a separate feature to your current branch
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	pros: it makes the merge process much faster, cons: if error occurs, it is very difficult to find
 	
 

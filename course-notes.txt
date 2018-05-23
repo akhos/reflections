@@ -50,9 +50,10 @@ git remote
 
 git remote -v
 
+origin is remote and master is the main branch on the computer
 git push origin master
 
-
+git pull origin master
 
 3666
 4666
